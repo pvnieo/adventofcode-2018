@@ -1,4 +1,4 @@
-# Advent of code 2018 solutions
+# Advent of code 2019 solutions
 
 ⁣    🌟  
     🎄  
@@ -8,4 +8,4 @@
 🎄🎄🎄🎄🎄  
   🎁🎁🎁
 
-These are proposed solutions for the [Advent of Code 2018](http://adventofcode.com/2018).
+These are proposed solutions for the [Advent of Code 2019](http://adventofcode.com/2019).
