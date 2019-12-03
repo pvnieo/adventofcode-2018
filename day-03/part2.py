@@ -16,8 +16,6 @@ def get_path(wire):
 def main(input_):
     wire1, wire2 = list(map(lambda w: [(x[0], int(x[1:])) for x in w.split(",")], input_.strip().split("\n")))
     path1, path2 = get_path(wire1), get_path(wire2)
-    for inter in set(path1).intersection(set(path2)):
-        continue
     return min([path1.index(x) + path2.index(x) for x in set(path1).intersection(set(path2))]) + 2
 
 
